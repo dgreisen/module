@@ -1,0 +1,3 @@
+[submodule "dir/subdir"]
+	path = dir/subdir
+	url = git@github.com:dgreisen/submodule.git
